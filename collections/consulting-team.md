@@ -2,6 +2,8 @@
 
 Diese Collection bündelt drei hochgradig spezialisierte, professionell abgestimmte Agenten zu einem integrierten Expertensystem. Das Team ist darauf ausgelegt, Unternehmen, Sachverständige, Fuhrparkverantwortliche, Entwickler und Entscheider entlang der gesamten Wertschöpfungskette Finanzen – Fahrzeuge – Flotte zu unterstützen.
 
+**Tags:** best-practices, consulting, expert-agents, professional-agents, business-solutions, research, validation, optimization
+
 ## Items in this Collection
 
 | Title | Type | Description | MCP Servers |
