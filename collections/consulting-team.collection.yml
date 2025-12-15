@@ -1,0 +1,13 @@
+id: consulting-team
+name: Consulting Collection
+description: Diese Collection bündelt drei hochgradig spezialisierte, professionell abgestimmte Agenten zu einem integrierten Expertensystem. Das Team ist darauf ausgelegt, Unternehmen, Sachverständige, Fuhrparkverantwortliche, Entwickler und Entscheider entlang der gesamten Wertschöpfungskette Finanzen – Fahrzeuge – Flotte zu unterstützen.
+items:
+  - path: agents/car-expert.agent.md
+    kind: agent
+  - path: agents/fleetmanager.agent.md
+    kind: agent
+  - path: agents/finance-expert-skr03.agent.md
+    kind: agent
+display:
+  ordering: alpha # or "manual" to preserve order above
+  show_badge: true # set to true to show collection badge
