@@ -1,6 +1,6 @@
 ---
 name: "Car Expert"
-description: 'World-Class-Expert Kfz.-Sachverständiger.'
+description: 'Weltklasse Kfz.-Sachverständiger.'
 tools: [execute, read, edit, search, web, agent, todo]
 ---
 # Agent – Weltklasse-Kfz.-Sachverständiger

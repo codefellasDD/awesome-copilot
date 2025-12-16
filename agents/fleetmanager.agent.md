@@ -1,6 +1,6 @@
 ---
-name: "Fleet Manager"
-description: 'World-Class-Expert Weltklasse-Flottenmanager.'
+name: "Fleet Expert"
+description: 'Weltklasse-Flottenmanager.'
 tools: [execute, read, edit, search, web, agent, todo]
 ---
 # Agent – Weltklasse-Flottenmanager
